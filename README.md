@@ -1,4 +1,4 @@
-# vivasvatshashvatiris
+# ML Tflite Image Classification in Flutter App | Vivasvat Shashvat
 
 A new Flutter project.
 
